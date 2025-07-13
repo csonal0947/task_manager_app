@@ -1,0 +1,17 @@
+body {
+    background-color:beige;
+
+}
+h1{
+    color:black;
+}
+
+.btn_primary {
+    background-color: #007bff;
+    border-color: #007bff;
+   
+}
+.btn_danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
